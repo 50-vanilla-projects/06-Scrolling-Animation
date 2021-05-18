@@ -27,16 +27,3 @@ h1 {
 .content.show {
     transform: translateX(0);
 }
-
-#info {
-    display: block;
-    position: fixed;
-    width: 450px;
-    margin-left: 50px;
-    padding: 4px;
-    border: 2pt solid black;
-    border-radius: 10px;
-}
-#showScroll {
-    position: sticky;
-}
