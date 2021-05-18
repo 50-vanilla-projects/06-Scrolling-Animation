@@ -20,7 +20,9 @@ h1 {
     transform: translateX(100vw);
     transition: transform 0.5s ease;
 }
-
+.content:nth-of-type(even) {
+    transform: translateX(-100vw);
+}
 .content.slidden {
     transform: translateX(0);
 }
