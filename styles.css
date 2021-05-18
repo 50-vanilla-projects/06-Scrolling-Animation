@@ -4,6 +4,7 @@ body {
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #fad66b;
+    overflow-x: hidden;
 }
 h1 {
     text-align: center;
