@@ -24,10 +24,9 @@ h1 {
 .content:nth-of-type(even) {
     transform: translateX(-100vw);
 }
-.content.slidden {
+.content.show {
     transform: translateX(0);
 }
-
 
 #info {
     display: block;
