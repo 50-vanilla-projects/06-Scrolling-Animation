@@ -1,8 +1,6 @@
 const contentDivs = document.querySelectorAll('.content');
 const triggerHeight = (window.innerHeight * 4/5);
 
-console.log(triggerHeight);
-
 window.addEventListener('scroll', whenToSlide);
 
 whenToSlide();
